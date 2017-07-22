@@ -1,3 +1,4 @@
+#!/bin/bash
 bash <<EOF2
 sed -i 's/ubuntu/router1/g' /etc/hostname
 sed -i 's/ubuntu/router1/g' /etc/hosts
